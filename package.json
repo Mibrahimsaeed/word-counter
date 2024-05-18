@@ -1,0 +1,18 @@
+{
+  "name": "word-counter-ib",
+  "version": "1.0.1",
+  "description": "",
+  "bin": {
+    "word-counter-ib": "wordcounter-ib.js"
+  },
+  "type": "module",
+  "main": "wordcounter-ib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
